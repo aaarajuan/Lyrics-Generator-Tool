@@ -12,4 +12,4 @@ a Lyrics Code Generator Tool Built-in With Python.
 # Latest Updates
 **>>** <a href='https://github.com/aaarajuan/Lyrics-Generator-Tool/archive/refs/heads/main.zip' rel='nofollow' target='_blank'>Version 1.0</a>
 
-&copy;Copytights 2022 - This Tool is Originaly Maked For The "ONKUR" & It's Sister Organizations(<a href='https://www.freefilescr.com' rel='dofollow' target='_blank'>freefilescr.com</a>, <a href='https://www.urmoviefinder.xyz' rel='dofollow' target='_blank'>urmoviefinder.xyz</a>)
+&copy; Copytights 2022 - This Tool is Originaly Maked For The "ONKUR" & It's Sister Organizations(<a href='https://www.freefilescr.com' rel='dofollow' target='_blank'>freefilescr.com</a>, <a href='https://www.urmoviefinder.xyz' rel='dofollow' target='_blank'>urmoviefinder.xyz</a>)
