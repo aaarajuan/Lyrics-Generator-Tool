@@ -2,7 +2,7 @@
 a Lyrics Code Generator Tool Built-in With Python.
 
 # Usage
-**Note:** You Need To Have Python Latest Version Installed in Your Device For Working The Tool On Your Device. Else You Can Use <a href='https://replit.com/@aaarajuan' rel='nofollow' target='_blank'>Repl.it</a>
+**Note:** _You Need To Have Python Latest Version Installed in Your Device For Working The Tool On Your Device. Else You Can Use <a href='https://replit.com/@aaarajuan' rel='nofollow' target='_blank'>Repl.it</a>.
 
 1. Download The Files & Exract it.
 2. Now Run The main.py File using Python.
