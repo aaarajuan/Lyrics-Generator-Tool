@@ -1,5 +1,6 @@
 # Lyrics Generator Tool
 a Lyrics Code Generator Tool Built-in With Python.
+
 <img src='https://github.com/aaarajuan/Lyrics-Generator-Tool/blob/main/Screenshot%20from%202022-03-06%2006-42-35.png'/>
 
 # Usage
